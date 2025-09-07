@@ -3,5 +3,4 @@ This is true for llm, it is not enough to have only multi-head attention layer t
 complete structure of llm like chatgpt:
 
 
-
-<img width="938" height="3894" alt="whiteboard_exported_image" src="https://github.com/user-attachments/assets/1303dd28-5ba2-4b94-93a7-a8debbc40014" />
+<img width="1876" height="8396" alt="whiteboard_exported_image (1)" src="https://github.com/user-attachments/assets/aabb2c1e-0af2-41b0-be07-3b5e5e62e0ab" />
