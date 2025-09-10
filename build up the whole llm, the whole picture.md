@@ -4,3 +4,5 @@ complete structure of llm like chatgpt:
 
 
 <img width="1876" height="8396" alt="whiteboard_exported_image (1)" src="https://github.com/user-attachments/assets/aabb2c1e-0af2-41b0-be07-3b5e5e62e0ab" />
+
+As we can see from above image, the input will come from the bottom, then it will go through all kinds of layers and finally output the result at the top which is predicting the next word "you".
