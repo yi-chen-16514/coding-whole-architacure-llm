@@ -1,2 +1,4 @@
-In this section, we will combine all tricks we learned before and connect them with multi-head attention block to create the most important component for LLM whic is the transformer
-blocl
+In this section, we will combine all tricks we learned before and connect them with multi-head attention block to create the most important component 
+for LLM whic is the transformer block. Let's check its structure first:
+
+
